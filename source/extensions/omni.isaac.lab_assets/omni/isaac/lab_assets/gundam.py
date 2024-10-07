@@ -23,7 +23,7 @@ GUNDAM_RX78_CFG = ArticulationCfg(
         ),
     ),
     init_state=ArticulationCfg.InitialStateCfg(
-        pos=(0.0, 0.0, 0.03),
+        pos=(0.0, 0.0, 1.18),
         joint_pos={".*": 0.0},
         joint_vel={".*": 0.0},
     ),
